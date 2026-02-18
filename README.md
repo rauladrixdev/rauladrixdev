@@ -1,16 +1,13 @@
 # 👋 Olá! Eu sou Raul Adriano
-
 ### 📊 Estágio em Analista de Dados / Analista de Dados Júnior | Business Intelligence
-
 Transformo **dados em insights estratégicos** para apoiar decisões de negócio.  
 Foco em **SQL avançado, análise de dados e dashboards** que geram resultados reais.
 
 ---
 
 ## 🚀 Sobre Mim
-
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – UNICID (Conclusão: Dez/2026)  
-💼 Experiência como **Estágio em Analista de Dados / Analista de Dados Júnior** – projetos em SQL, Excel, Power BI e modelagem dimensional  
+💼 Experiência como **Estagiário / Analista de Dados Júnior** – projetos em SQL, Excel, Power BI e modelagem dimensional  
 🐍 Conhecimento em **Python (Pandas básico)** para análise, limpeza e transformação de dados  
 🌱 Aprendendo **ETL, Power BI, Data Warehouse e modelagem Star Schema**  
 📍 São Paulo - SP | 📫 Contato: [raum.adrix@icloud.com](mailto:raum.adrix@icloud.com)
@@ -20,12 +17,12 @@ Foco em **SQL avançado, análise de dados e dashboards** que geram resultados r
 ## 🛠️ Skills & Ferramentas
 
 ### Linguagens
-![SQL](https://img.shields.io/badge/SQL-Avançado-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediário-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### BI & Análise de Dados
 ![Power BI](https://img.shields.io/badge/Power%20BI-Básico-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Intermediário-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Básico-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Modelagem & Arquitetura
@@ -41,7 +38,7 @@ Foco em **SQL avançado, análise de dados e dashboards** que geram resultados r
 
 ## 📈 Projetos em Destaque
 
-### 🏢 [Data Warehouse – Curva ABC](https://github.com/rauladrixdev)
+### 🏢 [Data Warehouse – Segmentação de Clientes (Curva ABC)](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc)
 Modelo dimensional completo implementado em **SQL Server** para análise de concentração de clientes.
 
 - **Tecnologias:** SQL Server, Star Schema, Window Functions  
@@ -52,7 +49,7 @@ Modelo dimensional completo implementado em **SQL Server** para análise de conc
 
 ---
 
-### 📊 [Dashboard de Vendas – Power BI](https://github.com/rauladrixdev)
+### 📊 [Dashboard de Vendas – Power BI](https://github.com/rauladrixdev/dashboard-vendas-powerbi)
 Dashboard interativo para análise de **desempenho comercial**, segmentado por estado, canal e mês.
 
 - **Tecnologias:** Power BI, Power Query, DAX  
@@ -65,7 +62,6 @@ Dashboard interativo para análise de **desempenho comercial**, segmentado por e
 ---
 
 ## 🌐 Conecte-se Comigo
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-adriano)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rauladrixdev)  
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=icloud&logoColor=white)](mailto:raum.adrix@icloud.com)
@@ -74,6 +70,4 @@ Dashboard interativo para análise de **desempenho comercial**, segmentado por e
 
 <div align="center">
   <i>💡 "Dados transformam informação em estratégia, e estratégia em resultados!"</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=rauladrixdev&color=0077B5&style=for-the-badge&label=VISUALIZAÇÕES" alt="Visualizações do perfil">
 </div>
