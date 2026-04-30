@@ -19,15 +19,7 @@ API REST com autenticação JWT
 
 👉 https://github.com/rauladrixdev/auth-customer-api
 
----
-
-### 🧩 Customer Analytics API
-API para gestão de clientes com classificação e score  
-- CRUD completo  
-- Regras de negócio  
-- Integração com banco  
-
----
+___
 
 ### 📊 Data Warehouse
 Projeto com modelagem dimensional e análise SQL  
