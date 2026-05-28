@@ -1,62 +1,101 @@
-# Olá, eu sou o Raúl Adriano 👋
+<div align="center">
 
-Desenvolvedor focado em Backend, Frontend e Análise de Dados.
-Estudante de Análise e Desenvolvimento de Sistemas na UNICID,
-com previsão de conclusão em dezembro de 2026.
+<!-- WAVE ANIMADO NO TOPO -->
 
-Construo projetos reais com Python, SQL, HTML, CSS e JavaScript,
-buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=200&section=header&text=Raúl%20Adriano&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20%26%20Frontend&descAlignY=58&descSize=20&animation=fadeIn" />
 
----
+<!-- TEXTO DIGITANDO ANIMADO -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+%26+Frontend;Estudante+ADS+%7C+UNICID+2026;Python+%7C+Java+%7C+SQL+%7C+JavaScript;Construindo+projetos+reais+%F0%9F%9A%80" alt="Typing SVG" />
+
+<!-- CONTADOR DE VISITAS -->
+
+<img src="https://komarev.com/ghpvc/?username=rauladrixdev&color=00eeff&style=for-the-badge&label=VISITAS+AO+PERFIL" />
+
+</div>
+
+-----
+
+## 👨🏾‍💻 Sobre mim
+
+```python
+dev = {
+    "nome":       "Raúl Adriano Jardim",
+    "localidade": "São Paulo, SP 🇧🇷",
+    "formação":   "ADS — UNICID (conclusão dez/2026)",
+    "foco":       ["Backend", "Frontend"],
+    "stack":      ["Python", "Java", "SQL", "JavaScript", "HTML", "CSS"],
+    "buscando":   "Estágio ou Desenvolvedor Júnior",
+    "portfólio":  "rauladrixdev.github.io"
+}
+```
+
+-----
 
 ## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,vscode&theme=dark&perline=8" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,powerbi&theme=dark&perline=8" />
 
-## 🚀 O que estou buscando
+</div>
 
-- 💼 Estágio em Desenvolvimento Web (Frontend ou Backend)
-- 💼 Estágio em Análise de Dados / Business Intelligence
-- 💼 Desenvolvedor Júnior (Python, JavaScript, SQL)
+-----
 
----
+## 📂 Projetos em Destaque
 
-## 📂 Projetos em destaque
+<div align="center">
 
-### 📊 Data Warehouse — Curva ABC
-Segmentação de clientes em classes A, B e C por impacto na receita.
-`SQL Server` `Modelagem Dimensional` `CTEs` `Window Functions`
-🔗 [Ver repositório](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc)
+|🗂️ Projeto                                                                                |📝 Descrição                              |🔧 Stack                             |
+|:----------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------|
+|[📊 Data Warehouse Curva ABC](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc)|Segmentação de clientes A/B/C por receita|SQL Server · CTEs · Window Functions|
+|[📈 Dashboard de Vendas](https://github.com/rauladrixdev/dashboard-vendas-powerbi)        |KPIs de vendas por estado e canal        |Power BI · DAX                      |
+|[🔐 Auth Customer API](https://github.com/rauladrixdev/auth-customer-api)                 |API REST de autenticação em Python       |Python · API REST · Backend         |
+|[🌐 Portfólio Web](https://rauladrixdev.github.io)                                        |Site pessoal responsivo com animações 3D |HTML · CSS · JavaScript             |
 
-### 📈 Dashboard de Vendas — Power BI
-Análise de vendas com KPIs, distribuição por estado e canais.
-`Power BI` `DAX` `Visualização de dados`
-🔗 [Ver repositório](https://github.com/rauladrixdev/dashboard-vendas-powerbi)
+</div>
 
-### 🔐 Auth Customer API
-API REST de autenticação desenvolvida em Python.
-`Python` `API REST` `Backend`
-🔗 [Ver repositório](https://github.com/rauladrixdev/auth-customer-api)
+-----
 
-### 🌐 Portfólio Pessoal
-Site pessoal com animações CSS, splash screen e design responsivo.
-`HTML` `CSS` `JavaScript`
-🔗 [Ver o site](https://rauladrixdev.github.io)
+## 📊 GitHub Stats
 
----
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rauladrixdev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eeff&icon_color=00eeff&text_color=ffffff&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauladrixdev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eeff&text_color=ffffff&langs_count=6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rauladrixdev&theme=radical&hide_border=true&background=0d1117&ring=00eeff&fire=00eeff&currStreakLabel=00eeff&sideLabels=ffffff&dates=aaaaaa" />
+
+</div>
+
+-----
+
+## 🎯 O que estou buscando
+
+<div align="center">
+
+![Estágio Dev Web](https://img.shields.io/badge/💼_Estágio-Desenvolvimento_Web-00eeff?style=for-the-badge&labelColor=0d1117)
+![Frontend Jr](https://img.shields.io/badge/💼_Júnior-Frontend_Developer-00eeff?style=for-the-badge&labelColor=0d1117)
+![Backend Jr](https://img.shields.io/badge/💼_Júnior-Backend_Developer-00eeff?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+-----
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-adriano)
-[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:raum.adrix@icloud.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?logo=github&logoColor=white)](https://rauladrixdev.github.io)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raúl_Adriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-adriano)
+[![Email](https://img.shields.io/badge/Email-raum.adrix@icloud.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:raum.adrix@icloud.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-rauladrixdev.github.io-00eeff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://rauladrixdev.github.io)
+
+</div>
+
+<!-- WAVE ANIMADO NO RODAPÉ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=120&section=footer" />
