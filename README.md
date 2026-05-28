@@ -78,9 +78,10 @@ dev = {
 
 <div align="center">
 
-![Estágio Dev Web](https://img.shields.io/badge/💼_Estágio-Desenvolvimento_Web-00eeff?style=for-the-badge&labelColor=0d1117)
-![Frontend Jr](https://img.shields.io/badge/💼_Júnior-Frontend_Developer-00eeff?style=for-the-badge&labelColor=0d1117)
+![Estágio Backend](https://img.shields.io/badge/💼_Estágio-Backend_Developer-00eeff?style=for-the-badge&labelColor=0d1117)
+![Estágio Frontend](https://img.shields.io/badge/💼_Estágio-Frontend_Developer-00eeff?style=for-the-badge&labelColor=0d1117)
 ![Backend Jr](https://img.shields.io/badge/💼_Júnior-Backend_Developer-00eeff?style=for-the-badge&labelColor=0d1117)
+![Frontend Jr](https://img.shields.io/badge/💼_Júnior-Frontend_Developer-00eeff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
