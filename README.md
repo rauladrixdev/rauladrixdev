@@ -2,7 +2,7 @@
 
 <!-- WAVE ANIMADO NO TOPO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=200&section=header&text=Raúl%20Adriano&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20%26%20Frontend&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="assets/r-animado.svg" width="100%" />
 
 <!-- TEXTO DIGITANDO ANIMADO -->
 
@@ -54,21 +54,6 @@ dev = {
 |[📈 Dashboard de Vendas](https://github.com/rauladrixdev/dashboard-vendas-powerbi)        |KPIs de vendas por estado e canal        |Power BI · DAX                      |
 |[🔐 Auth Customer API](https://github.com/rauladrixdev/auth-customer-api)                 |API REST de autenticação em Python       |Python · API REST · Backend         |
 |[🌐 Portfólio Web](https://rauladrixdev.github.io)                                        |Site pessoal responsivo com animações 3D |HTML · CSS · JavaScript             |
-
-</div>
-
------
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rauladrixdev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eeff&icon_color=00eeff&text_color=ffffff&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauladrixdev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eeff&text_color=ffffff&langs_count=6" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rauladrixdev&theme=radical&hide_border=true&background=0d1117&ring=00eeff&fire=00eeff&currStreakLabel=00eeff&sideLabels=ffffff&dates=aaaaaa" />
 
 </div>
 
