@@ -1,17 +1,20 @@
 <div align="center">
 
 <!-- WAVE ANIMADO NO TOPO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=200&section=header&text=Raúl%20Adriano&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20%26%20Frontend&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=200&section=header&text=Ra%C3%BAl%20Adriano&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20%26%20Frontend&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- TEXTO DIGITANDO ANIMADO -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+%26+Frontend;Estudante+ADS+%7C+UNICID+2026;Python+%7C+Java+%7C+SQL+%7C+JavaScript;Construindo+projetos+reais+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- CONTADOR DE VISITAS -->
+
 <img src="https://komarev.com/ghpvc/?username=rauladrixdev&color=00eeff&style=for-the-badge&label=VISITAS+AO+PERFIL" />
 
 </div>
 
----
+-----
 
 ## 👨🏾‍💻 Sobre mim
 
@@ -27,7 +30,7 @@ dev = {
 }
 ```
 
----
+-----
 
 ## 🛠️ Tecnologias
 
@@ -39,22 +42,22 @@ dev = {
 
 </div>
 
----
+-----
 
 ## 📂 Projetos em Destaque
 
 <div align="center">
 
-| 🗂️ Projeto | 📝 Descrição | 🔧 Stack |
-|:---|:---|:---|
-| [📊 Data Warehouse Curva ABC](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc) | Segmentação de clientes A/B/C por receita | SQL Server · CTEs · Window Functions |
-| [📈 Dashboard de Vendas](https://github.com/rauladrixdev/dashboard-vendas-powerbi) | KPIs de vendas por estado e canal | Power BI · DAX |
-| [🔐 Auth Customer API](https://github.com/rauladrixdev/auth-customer-api) | API REST de autenticação em Python | Python · API REST · Backend |
-| [🌐 Portfólio Web](https://rauladrixdev.github.io) | Site pessoal responsivo com animações 3D | HTML · CSS · JavaScript |
+|🗂️ Projeto                                                                                |📝 Descrição                              |🔧 Stack                             |
+|:----------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------|
+|[📊 Data Warehouse Curva ABC](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc)|Segmentação de clientes A/B/C por receita|SQL Server · CTEs · Window Functions|
+|[📈 Dashboard de Vendas](https://github.com/rauladrixdev/dashboard-vendas-powerbi)        |KPIs de vendas por estado e canal        |Power BI · DAX                      |
+|[🔐 Auth Customer API](https://github.com/rauladrixdev/auth-customer-api)                 |API REST de autenticação em Python       |Python · API REST · Backend         |
+|[🌐 Portfólio Web](https://rauladrixdev.github.io)                                        |Site pessoal responsivo com animações 3D |HTML · CSS · JavaScript             |
 
 </div>
 
----
+-----
 
 ## 🎯 O que estou buscando
 
@@ -67,7 +70,7 @@ dev = {
 
 </div>
 
----
+-----
 
 ## 📫 Contato
 
@@ -80,4 +83,5 @@ dev = {
 </div>
 
 <!-- WAVE ANIMADO NO RODAPÉ -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=120&section=footer" />
