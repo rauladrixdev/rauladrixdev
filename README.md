@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- HEADER -->
+<h1>👨🏾‍💻 Raúl Adriano</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&lines=Raúl+Adriano" alt="Nome" />
-<br/>
-<img src="https://img.shields.io/badge/Desenvolvedor-Backend_%26_Frontend-00eeff?style=for-the-badge&labelColor=0d1117"/>
+<h3>🚀 Desenvolvedor Backend & Frontend</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br/><br/>
-
-<!-- TEXTO DIGITANDO ANIMADO -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+%26+Frontend;Estudante+ADS+%7C+UNICID+2026;Python+%7C+Java+%7C+SQL+%7C+JavaScript;Construindo+projetos+reais+%F0%9F%9A%80" alt="Typing SVG" />
-
-<!-- CONTADOR DE VISITAS -->
 
 <img src="https://komarev.com/ghpvc/?username=rauladrixdev&color=00eeff&style=for-the-badge&label=VISITAS+AO+PERFIL" />
 
@@ -84,10 +81,4 @@ dev = {
 [![Email](https://img.shields.io/badge/Email-raum.adrix@icloud.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:raum.adrix@icloud.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-rauladrixdev.github.io-00eeff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://rauladrixdev.github.io)
 
-</div>
-
------
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00EEFF&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!+%F0%9F%9A%80;Vamos+construir+algo+juntos%3F" alt="Footer" />
 </div>
