@@ -1,8 +1,12 @@
 <div align="center">
 
-<!-- WAVE ANIMADO NO TOPO -->
+<!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=200&section=header&text=Ra%C3%BAl%20Adriano&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20%26%20Frontend&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&lines=Raúl+Adriano" alt="Nome" />
+<br/>
+<img src="https://img.shields.io/badge/Desenvolvedor-Backend_%26_Frontend-00eeff?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
 
 <!-- TEXTO DIGITANDO ANIMADO -->
 
@@ -82,6 +86,8 @@ dev = {
 
 </div>
 
-<!-- WAVE ANIMADO NO RODAPÉ -->
+-----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=120&section=footer" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00EEFF&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!+%F0%9F%9A%80;Vamos+construir+algo+juntos%3F" alt="Footer" />
+</div>
