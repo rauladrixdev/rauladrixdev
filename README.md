@@ -47,14 +47,21 @@ dev = {
 
 ## 📂 Projetos em Destaque
 
+## 📂 Projetos em Destaque
+
 <div align="center">
 
-|🗂️ Projeto                                                                                |📝 Descrição                              |🔧 Stack                             |
-|:----------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------|
-|[📊 Data Warehouse Curva ABC](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc)|Segmentação de clientes A/B/C por receita|SQL Server · CTEs · Window Functions|
-|[📈 Dashboard de Vendas](https://github.com/rauladrixdev/dashboard-vendas-powerbi)        |KPIs de vendas por estado e canal        |Power BI · DAX                      |
-|[🔐 Auth Customer API](https://github.com/rauladrixdev/auth-customer-api)                 |API REST de autenticação em Python       |Python · API REST · Backend         |
-|[🌐 Portfólio Web](https://rauladrixdev.github.io)                                        |Site pessoal responsivo com animações 3D |HTML · CSS · JavaScript             |
+## 📂 Projetos em Destaque
+
+<div align="center">
+
+|🗂️ Projeto                                                                                   |📝 Descrição                               |🔧 Stack                               |
+|:-------------------------------------------------------------------------------------------|:----------------------------------------|:-----------------------------------|
+|[🚚 Pipeline Logístico E-commerce](https://github.com/rauladrixdev/portfolio_olist_ecommerce)|Tratamento de dados e análise de gargalos em +99k pedidos|Python · Pandas · Seaborn           |
+|[📊 Data Warehouse Curva ABC](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc)  |Segmentação de clientes A/B/C por receita|SQL Server · CTEs · Window Functions|
+|[📈 Dashboard de Vendas](https://github.com/rauladrixdev/dashboard-vendas-powerbi)          |KPIs de vendas por estado e canal        |Power BI · DAX              |
+|[🔐 Auth Customer API](https://github.com/rauladrixdev/auth-customer-api)                   |API REST de autenticação em Python       |Python · API REST · Backend|
+|[🌐 Portfólio Web](https://rauladrixdev.github.io)                                          |Site pessoal responsivo com animações 3D |HTML · CSS · JavaScript     |
 
 </div>
 
