@@ -10,7 +10,19 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rauladrixdev&color=00eeff&style=for-the-badge&label=PROFILE+VIEWS" />
+<!-- Profile Views -->
+
+<a href="https://github.com/rauladrixdev" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=rauladrixdev&color=00eeff&style=for-the-badge&label=PROFILE+VIEWS" />
+</a>
+
+<br/><br/>
+
+<!-- Open to Work -->
+
+<a href="https://linkedin.com/in/raul-adriano" target="_blank">
+  <img src="https://img.shields.io/badge/💼_OPEN_TO_WORK-Technology_Internship-00eeff?style=for-the-badge&labelColor=0d1117" />
+</a>
 
 </div>
 
@@ -83,13 +95,11 @@ My goal is to gain my first professional opportunity in technology, continue lea
 
 ## 🎯 What I'm looking for
 
-<div align="center">
+I am looking for a **technology internship**, with interest in:
 
-![Internship](https://img.shields.io/badge/💼_Open_to-Technology_Internship-00eeff?style=for-the-badge\&labelColor=0d1117)
-
-</div>
-
-I am looking for an internship opportunity in technology, with interest in development, data, and IT.
+* Development
+* Data
+* IT
 
 ---
 
@@ -97,10 +107,16 @@ I am looking for an internship opportunity in technology, with interest in devel
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raul_Adriano-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/raul-adriano)
+<a href="https://linkedin.com/in/raul-adriano" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Raul_Adriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-raum.adrix%40icloud.com-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:raum.adrix@icloud.com)
+<a href="mailto:raum.adrix@icloud.com">
+  <img src="https://img.shields.io/badge/Email-raum.adrix%40icloud.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rauladrixdev.github.io-00eeff?style=for-the-badge\&logo=googlechrome\&logoColor=black)](https://rauladrixdev.github.io)
+<a href="https://rauladrixdev.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-rauladrixdev.github.io-00eeff?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
 
 </div>
