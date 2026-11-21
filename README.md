@@ -88,13 +88,13 @@ I use **ChatGPT, Gemini and Claude** to explore technical concepts, brainstorm a
 <td width="50%"><a href="https://github.com/rauladrixdev/sistema-funcionarios-backend"><img src="./assets/project-employees.svg" width="100%" alt="Employee Management API — Java, Spring Boot, MySQL. REST API for employee records." /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/rauladrixdev/taskflow-api"><img src="./assets/project-taskflow.svg" width="100%" alt="TaskFlow API — in progress. Python, FastAPI, Docker. Architecture and roadmap." /></a></td>
+<td width="50%"><a href="https://github.com/rauladrixdev/dw-segmentacao-clientes-abc"><img src="./assets/project-dw.svg" width="100%" alt="Customer Segmentation DW — SQL Server, CTEs, Window Functions and ABC classification." /></a></td>
 <td width="50%"><img src="./assets/project-kv.svg" width="100%" alt="KV Estofados — delivered client website using HTML, CSS and JavaScript." /></td>
 </tr>
 </table>
 </div>
 
-**Backend and SQL projects:** [Auth Customer API](https://github.com/rauladrixdev/auth-customer-api) · [Employee Management API](https://github.com/rauladrixdev/sistema-funcionarios-backend) · [TaskFlow API (in progress)](https://github.com/rauladrixdev/taskflow-api) · [Customer Segmentation DW](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc).
+**Backend and SQL projects:** [Auth Customer API](https://github.com/rauladrixdev/auth-customer-api) · [Employee Management API](https://github.com/rauladrixdev/sistema-funcionarios-backend) · [Customer Segmentation DW](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc).
 
 **Real client work — KV Estofados (2026):** Developed and delivered a responsive website showcasing services, result images and a customer contact flow. Built around practical client requirements.
 
