@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/raul-adriano/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://rauladrixdev.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=38BDF8" alt="Portfolio" /></a>
-  <a href="mailto:raum.adrix@icloud.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:rauladriano.tech@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <img src="https://img.shields.io/badge/Open_to-Technology_Internships-0B1220?style=flat-square&labelColor=0B1220&color=2563EB" alt="Open to technology internships"/>
@@ -103,7 +103,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na UNICID**, com **con
 <p align="center">
   <a href="https://www.linkedin.com/in/raul-adriano/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://rauladrixdev.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=38BDF8" alt="Portfolio" /></a>
-  <a href="mailto:raum.adrix@icloud.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:rauladriano.tech@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
