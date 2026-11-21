@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0615,50:4C1D95,100:8B5CF6&amp;height=215&amp;section=header&amp;text=Raul%20Adriano&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlignY=39&amp;desc=Backend%20Development%20%7C%20APIs%20%7C%20Data&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Raul Adriano — Backend Development, APIs and Data" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0615,50:4C1D95,100:8B5CF6&amp;height=215&amp;section=header&amp;text=Raul%20Adriano&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlignY=39&amp;desc=Backend%20%7C%20Frontend%20%7C%20AI%20%26%20Creative%20Tech&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Raul Adriano — Backend, Frontend, AI and Creative Technology" />
 
 <a href="https://github.com/rauladrixdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1100&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Python+%7C+FastAPI+%7C+SQL;Learning+by+building+real+projects;Creating+technology+with+purpose" alt="Python, FastAPI and SQL. Learning by building real projects." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1100&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Backend+%2B+Frontend+%7C+Python+%26+JavaScript;ChatGPT+%7C+Gemini+%7C+Claude;AI+%7C+Ethical+Hacking+%7C+Game+Development;Building+real+projects+with+purpose" alt="Backend and frontend development, AI tools, ethical hacking and game development." />
 </a>
 
 <p>
@@ -23,18 +23,20 @@
 
 I'm **Raul Adriano**, a **Systems Analysis and Development** student at **UNICID**, based in São Paulo, Brazil. **Expected graduation: 2028.**
 
-My main interest is **backend development**, especially building REST APIs, working with databases and turning ideas into useful software. I also enjoy developing responsive websites and exploring data.
+My main technical focus is **backend development**: designing REST APIs, working with databases and turning ideas into useful software. I also build **frontend** interfaces and responsive websites, and enjoy exploring **AI**, **cybersecurity / ethical hacking** and **game development**.
 
 - 🐍 **Backend:** Python, FastAPI, REST APIs, authentication and SQL
 - 🗃️ **Databases:** PostgreSQL, SQLite, MySQL and SQL Server
-- 🧩 **Other experience:** Java/Spring Boot, HTML, CSS, JavaScript, Docker and Git
+- 🎨 **Frontend:** HTML, CSS, JavaScript and responsive interfaces
+- 🧩 **Also learning and using:** Java/Spring Boot, Docker, Git and AI-assisted development
+- 🛡️ **Exploring:** cybersecurity and ethical hacking fundamentals, AI applications and game development
 - 🎯 **Current goal:** an internship in software development, backend or related technology roles
 - 💡 **Approach:** keep learning, build real projects and improve through feedback
 
 <details>
 <summary>🇧🇷 Ler apresentação em português</summary>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UNICID**, com **conclusão prevista para 2028**. Tenho foco em desenvolvimento backend com Python, FastAPI, APIs REST e bancos de dados. Também desenvolvo sites responsivos e estudo análise de dados. Busco oportunidades de estágio em tecnologia para continuar aprendendo e contribuir com projetos reais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UNICID**, com **conclusão prevista para 2028**. Tenho foco em desenvolvimento backend com Python, FastAPI, APIs REST e bancos de dados. Também desenvolvo interfaces frontend e sites responsivos. Utilizo **ChatGPT, Gemini e Claude** como ferramentas de apoio ao estudo e desenvolvimento e tenho interesse em **inteligência artificial, cibersegurança (hacking ético) e criação de jogos**. Busco oportunidades de estágio em tecnologia para continuar aprendendo e contribuir com projetos reais.
 
 </details>
 
@@ -49,6 +51,29 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na UNICID**, com **con
 **Main focus:** Python · FastAPI · SQL · REST APIs · Relational Databases
 
 **Also working with:** Java · Spring Boot · JavaScript · HTML/CSS · Docker · Power BI · Pandas · Excel
+
+## 🤖 AI tools in my workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-171329?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Gemini-171329?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=9F7AEA" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Claude-171329?style=for-the-badge&amp;logo=anthropic&amp;logoColor=D4A27F" alt="Anthropic Claude" />
+
+</div>
+
+I use these AI assistants to **explore ideas, study concepts, review code and support documentation**. I validate generated suggestions and focus on understanding the code I write.
+
+## 🌌 Beyond the backend
+
+| Area | What interests me |
+| :-- | :-- |
+| 🧠 **Artificial Intelligence** | AI-powered applications, automation and accessible technology |
+| 🎨 **Frontend Development** | Responsive interfaces, usability and interactive experiences |
+| 🛡️ **Cybersecurity & Ethical Hacking** | Security fundamentals, safe experimentation and understanding vulnerabilities |
+| 🎮 **Game Development** | Game logic, interactivity and creative programming |
+
+*These are areas of interest and ongoing learning—not claims of professional specialization.*
 
 ## 🚀 Featured projects
 
