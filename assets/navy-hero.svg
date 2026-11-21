@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Raul Adriano — Python and Java Backend, Software Engineering</title>
+<desc id="desc">Professional navy-blue animated geometric banner with refined cyan details.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080F1D"/><stop offset=".52" stop-color="#12213C"/><stop offset="1" stop-color="#193D65"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7DD3FC"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67E8F9" stop-opacity=".3"/><stop offset="1" stop-color="#2563EB" stop-opacity=".06"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#0284C7" stop-opacity=".45"/><stop offset="1" stop-color="#0284C7" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7DD3FC" stroke-opacity=".11"/></pattern>
+</defs>
+<style>
+@keyframes float {0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes dash {to{stroke-dashoffset:-80}}
+@keyframes pulse {0%,100%{opacity:.58}50%{opacity:1}}
+@keyframes sweep {0%,100%{opacity:.16;transform:translateX(-10px)}50%{opacity:.6;transform:translateX(20px)}}
+.card{animation:float 6s ease-in-out infinite}
+.line{animation:dash 7s linear infinite}
+.light{animation:pulse 4s ease-in-out infinite}
+.sweep{animation:sweep 8s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.card,.line,.light,.sweep{animation:none}}
+</style>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<circle cx="1004" cy="161" r="210" fill="url(#halo)"/>
+<g class="sweep" opacity=".3" stroke="#38BDF8" stroke-width="1.5" fill="none"><path d="M688 40L750 12M689 72L785 24M686 104L748 75"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="70" y="69" font-size="16" fill="#7DD3FC" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPMENT</text>
+  <text x="65" y="148" font-size="69" fill="#F8FAFC" font-weight="800" letter-spacing="1">RAUL ADRIANO</text>
+  <text x="70" y="192" font-size="25" fill="#BAE6FD" font-weight="600">Python Backend  /  Java Backend</text>
+  <text x="70" y="226" font-size="20" fill="#CBD5E1">Software Engineering • REST APIs • Databases</text>
+  <path d="M70 253H649" stroke="#38BDF8" stroke-opacity=".5"/>
+  <path d="M70 253H270" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <text x="70" y="285" font-size="15" fill="#94A3B8" letter-spacing="2">LEARN  •  BUILD  •  IMPROVE</text>
+</g>
+<g class="card">
+  <rect x="843" y="54" width="285" height="218" rx="22" fill="#0B172B" stroke="#7DD3FC" stroke-opacity=".6" stroke-width="2"/>
+  <rect x="855" y="66" width="261" height="194" rx="14" fill="url(#glass)"/>
+  <circle cx="875" cy="83" r="4" fill="#F87171"/><circle cx="889" cy="83" r="4" fill="#FBBF24"/><circle cx="903" cy="83" r="4" fill="#34D399"/>
+  <path class="line" d="M852 98H1117" stroke="#38BDF8" stroke-width="1" stroke-dasharray="7 7" opacity=".55"/>
+  <g font-family="monospace" font-size="18">
+    <text x="882" y="135" fill="#7DD3FC">&lt;backend&gt;</text>
+    <text x="900" y="168" fill="#F8FAFC">Python + Java</text>
+    <text x="900" y="199" fill="#93C5FD">APIs / SQL</text>
+    <text x="882" y="235" fill="#7DD3FC">&lt;/backend&gt;</text>
+  </g>
+</g>
+<circle class="light" cx="1125" cy="35" r="5" fill="#7DD3FC"/>
+<circle class="light" cx="804" cy="267" r="4" fill="#38BDF8"/>
+</svg>
