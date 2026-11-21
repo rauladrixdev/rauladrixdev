@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Raul Adriano — dark purple 3D-inspired developer banner</title>
+<desc id="desc">Animated violet glass-like cube, orbital rings and text for backend, frontend and AI.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090714"/><stop offset=".54" stop-color="#150A32"/><stop offset="1" stop-color="#260E53"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".48"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="top" x2="1" y2="1"><stop stop-color="#E9D5FF"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+  <linearGradient id="front" x2="0" y2="1"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#4C1D95"/></linearGradient>
+  <linearGradient id="side" x2="1" y2="1"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#180B45"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="13"/></filter>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8156BA" stroke-opacity=".14" stroke-width="1"/></pattern>
+</defs>
+<style>
+@keyframes bob { 0%,100% { transform:translateY(0px) } 50% { transform:translateY(-13px) } }
+@keyframes orbit { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+@keyframes breathe { 0%,100%{opacity:.68} 50%{opacity:1} }
+@media (prefers-reduced-motion: reduce) { *,*::before,*::after {animation:none !important;} }
+.float { animation:bob 5s ease-in-out infinite; }
+.ring { animation:orbit 24s linear infinite; transform-origin:center; transform-box:fill-box; }
+.shimmer {animation:breathe 3s ease-in-out infinite;}
+</style>
+<rect width="1200" height="380" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="22" fill="url(#grid)"/>
+<circle cx="948" cy="190" r="220" fill="url(#halo)"/>
+<path d="M70 316H625" stroke="#9F7AEA" stroke-opacity=".5"/>
+<path d="M70 321H320" stroke="#D8B4FE" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="70" y="98" font-size="16" font-weight="700" letter-spacing="4" fill="#C4B5FD">DEVELOPER PROFILE</text>
+  <text x="68" y="177" font-size="69" font-weight="800" letter-spacing="1" fill="#F5F3FF">RAUL</text>
+  <text x="68" y="249" font-size="69" font-weight="800" letter-spacing="1" fill="#C084FC">ADRIANO</text>
+  <text x="72" y="291" font-size="20" fill="#D6D3E1">BACKEND  /  FRONTEND  /  AI TOOLS</text>
+  <text x="70" y="353" font-size="14" fill="#A78BFA" letter-spacing="2">PYTHON  •  FASTAPI  •  JAVASCRIPT  •  SQL</text>
+</g>
+<g class="ring">
+  <ellipse cx="952" cy="188" rx="179" ry="65" transform="rotate(-26 952 188)" fill="none" stroke="#B794F4" stroke-opacity=".45" stroke-width="2"/>
+  <ellipse cx="952" cy="188" rx="181" ry="66" transform="rotate(31 952 188)" fill="none" stroke="#6D28D9" stroke-opacity=".7" stroke-width="2"/>
+</g>
+<g class="float">
+  <ellipse cx="952" cy="306" rx="123" ry="24" fill="#A855F7" opacity=".4" filter="url(#glow)"/>
+  <path d="M951 77L1065 135 951 195 838 135Z" fill="url(#top)" stroke="#E9D5FF" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M838 135L951 195 951 314 838 250Z" fill="url(#front)" stroke="#C4B5FD" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M951 195L1065 135 1065 250 951 314Z" fill="url(#side)" stroke="#C4B5FD" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M951 195V314" stroke="#F5D0FE" stroke-opacity=".5"/>
+  <path d="M838 135L951 195 1065 135" fill="none" stroke="#FFFFFF" stroke-opacity=".6"/>
+  <path d="M882 159L952 124 1020 158" fill="none" stroke="#F4E8FF" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="951" cy="196" r="14" fill="#F9F5FF" opacity=".55" filter="url(#glow)"/>
+</g>
+<g class="shimmer" fill="#D8B4FE"><circle cx="800" cy="68" r="4"/><circle cx="1104" cy="96" r="4"/><circle cx="1122" cy="283" r="3"/><circle cx="755" cy="265" r="3"/></g>
+</svg>
