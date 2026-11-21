@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="238" viewBox="0 0 570 238" role="img" aria-label="Auth Customer API: JWT authentication and password security. Python · FastAPI · SQLAlchemy">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1426"/><stop offset="1" stop-color="#152E50"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#38BDF8" stop-opacity=".19"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<linearGradient id="rim" x2="1" y2="1"><stop stop-color="#38BDF8" stop-opacity=".75"/><stop offset="1" stop-color="#5A7798" stop-opacity=".18"/></linearGradient>
+</defs>
+<style>
+@keyframes softGlow{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes glide{0%{transform:translateX(-5px)}50%{transform:translateX(5px)}100%{transform:translateX(-5px)}}
+.glow{animation:softGlow 5s ease-in-out infinite}.glyph{animation:glide 7s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.glow,.glyph{animation:none}}
+</style>
+<rect x="2" y="2" width="566" height="234" rx="19" fill="url(#bg)" stroke="url(#rim)" stroke-width="2"/>
+<circle class="glow" cx="489" cy="76" r="146" fill="url(#glow)"/>
+<path d="M24 64H545" stroke="#54799D" opacity=".27"/>
+<rect x="27" y="23" width="168" height="27" rx="13" fill="#38BDF8" fill-opacity=".12" stroke="#38BDF8" stroke-opacity=".4"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="40" y="41" font-size="12.8" font-weight="700" fill="#38BDF8" letter-spacing="1.3">BACKEND / PYTHON</text>
+<text x="28" y="106" font-size="29" font-weight="800" fill="#F8FAFC">Auth Customer API</text>
+<text x="29" y="136" font-size="16" fill="#CBD5E1">JWT authentication and password security</text>
+<path d="M28 167H540" stroke="#486482" opacity=".6"/>
+<text x="29" y="196" font-size="15" font-weight="700" fill="#BAE6FD">Python · FastAPI · SQLAlchemy</text>
+<text x="29" y="221" font-size="12" fill="#94A3B8">VIEW PROJECT / CASE STUDY</text>
+</g>
+<g class="glyph" transform="translate(478 102) scale(.84)" opacity=".75"><rect x="0" y="3" width="39" height="32" rx="7" fill="none" stroke="#38BDF8" stroke-width="4"/><path d="M9 3v-12a11 11 0 0 1 22 0V3" fill="none" stroke="#38BDF8" stroke-width="4"/><circle cx="19.5" cy="18" r="4" fill="#38BDF8"/></g>
+</svg>
