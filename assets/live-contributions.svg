@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="164" viewBox="0 0 1200 164" role="img" aria-label="Open Raul Adriano's live contribution calendar on GitHub. This link does not display fabricated contribution counts.">
+<defs><linearGradient id="abg" x2="1" y2="1"><stop stop-color="#0A1426"/><stop offset="1" stop-color="#143454"/></linearGradient><linearGradient id="line" x2="0" y2="1"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#2563EB"/></linearGradient></defs>
+<style>
+@keyframes slide{0%,100%{opacity:.3;transform:translateX(0)}50%{opacity:.7;transform:translateX(10px)}}
+.moving{animation:slide 5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.moving{animation:none}}
+</style>
+<rect x="2" y="2" width="1196" height="160" rx="18" fill="url(#abg)" stroke="#2D5576" stroke-width="2"/>
+<path d="M26 35H26V130" stroke="url(#line)" stroke-width="6" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="56" y="58" fill="#F8FAFC" font-size="27" font-weight="800">GitHub contributions</text>
+<text x="56" y="90" fill="#BAD8F0" font-size="19">Explore my live contribution calendar and recent activity on GitHub.</text>
+<text x="56" y="125" fill="#7DD3FC" font-size="16" font-weight="700" letter-spacing="1.3">OPEN LIVE CONTRIBUTIONS  →</text>
+</g>
+<g class="moving" opacity=".65" fill="none" stroke="#38BDF8" stroke-width="3"><path d="M1038 54L1092 82L1038 110"/><path d="M1082 54L1136 82L1082 110"/></g>
+</svg>
