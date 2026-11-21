@@ -11,15 +11,18 @@
 <style>
 @keyframes float {0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
 @keyframes dash {to{stroke-dashoffset:-80}}
-@keyframes pulse {0%,100%{opacity:.65}50%{opacity:1}}
+@keyframes pulse {0%,100%{opacity:.58}50%{opacity:1}}
+@keyframes sweep {0%,100%{opacity:.16;transform:translateX(-10px)}50%{opacity:.6;transform:translateX(20px)}}
 .card{animation:float 6s ease-in-out infinite}
 .line{animation:dash 7s linear infinite}
 .light{animation:pulse 4s ease-in-out infinite}
-@media (prefers-reduced-motion:reduce){.card,.line,.light{animation:none}}
+.sweep{animation:sweep 8s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.card,.line,.light,.sweep{animation:none}}
 </style>
 <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
 <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
 <circle cx="1004" cy="161" r="210" fill="url(#halo)"/>
+<g class="sweep" opacity=".3" stroke="#38BDF8" stroke-width="1.5" fill="none"><path d="M688 40L750 12M689 72L785 24M686 104L748 75"/></g>
 <g font-family="Arial,Helvetica,sans-serif">
   <text x="70" y="69" font-size="16" fill="#7DD3FC" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPMENT</text>
   <text x="65" y="148" font-size="69" fill="#F8FAFC" font-weight="800" letter-spacing="1">RAUL ADRIANO</text>
