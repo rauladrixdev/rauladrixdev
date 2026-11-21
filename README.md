@@ -53,6 +53,20 @@ I enjoy solving problems, structuring code, working with databases and turning i
 | **Frontend** | HTML5 · CSS3 · JavaScript · Responsive Web |
 | **Data & BI** | SQL · Pandas · Power BI · Excel |
 
+## 🏗️ Software Engineering in practice
+
+I am strengthening my engineering foundations by building projects step by step — **understanding requirements, organizing code, working with data and validating behavior**.
+
+| Area | How I approach it |
+| :--- | :--- |
+| 🧩 **Architecture** | Separating routes, schemas, services and data access where appropriate |
+| 🔌 **API design** | REST conventions, HTTP methods, validation and authentication concepts |
+| 🗄️ **Data modeling** | Relational databases, SQL queries and ORM fundamentals |
+| 🧪 **Quality** | Learning automated tests, debugging and maintainable code practices |
+| 📝 **Developer workflow** | Git, documentation, reproducible setup and Docker basics |
+
+> My main learning path combines **Python/FastAPI**, **Java/Spring Boot** and the principles of **Software Engineering**.
+
 ## 🤖 AI tools I use
 
 <div align="center">
@@ -65,18 +79,24 @@ I enjoy solving problems, structuring code, working with databases and turning i
 
 I use **ChatGPT, Gemini and Claude** to explore technical concepts, brainstorm approaches, review code and improve documentation. I validate suggestions and aim to understand the solutions I implement.
 
-## 🚀 Selected projects
+## 🚀 Featured projects
 
-| Project | What it demonstrates | Tech |
-| :--- | :--- | :--- |
-| 🔐 **[Auth Customer API](https://github.com/rauladrixdev/auth-customer-api)** | Registration, authentication, JWT and password hashing | Python · FastAPI · SQLAlchemy |
-| 👥 **[Employee Management API](https://github.com/rauladrixdev/sistema-funcionarios-backend)** | Employee-management REST API with Java backend | Java · Spring Boot · MySQL |
-| 🧱 **[TaskFlow API — in progress](https://github.com/rauladrixdev/taskflow-api)** | API design, project setup and incremental development roadmap | Python · FastAPI · Docker |
-| 📊 **[Customer Segmentation DW](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc)** | ABC classification and dimensional SQL analysis | SQL Server |
+<div align="center">
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/rauladrixdev/auth-customer-api"><img src="./assets/project-auth.svg" width="100%" alt="Auth Customer API — Python, FastAPI, SQLAlchemy. JWT authentication and password hashing." /></a></td>
+<td width="50%"><a href="https://github.com/rauladrixdev/sistema-funcionarios-backend"><img src="./assets/project-employees.svg" width="100%" alt="Employee Management API — Java, Spring Boot, MySQL. REST API for employee records." /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/rauladrixdev/taskflow-api"><img src="./assets/project-taskflow.svg" width="100%" alt="TaskFlow API — in progress. Python, FastAPI, Docker. Architecture and roadmap." /></a></td>
+<td width="50%"><img src="./assets/project-kv.svg" width="100%" alt="KV Estofados — delivered client website using HTML, CSS and JavaScript." /></td>
+</tr>
+</table>
+</div>
 
-### 🌐 Real client work
+**Backend and SQL projects:** [Auth Customer API](https://github.com/rauladrixdev/auth-customer-api) · [Employee Management API](https://github.com/rauladrixdev/sistema-funcionarios-backend) · [TaskFlow API (in progress)](https://github.com/rauladrixdev/taskflow-api) · [Customer Segmentation DW](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc).
 
-**KV Estofados — responsive business website (2026).** Developed and delivered a website showcasing services, result images and a customer contact flow. A practical example of working with real requirements.
+**Real client work — KV Estofados (2026):** Developed and delivered a responsive website showcasing services, result images and a customer contact flow. Built around practical client requirements.
 
 <details>
 <summary><strong>📂 Other work and projects</strong></summary>
@@ -86,6 +106,15 @@ I use **ChatGPT, Gemini and Claude** to explore technical concepts, brainstorm a
 - [Personal Portfolio](https://rauladrixdev.github.io/) — HTML, CSS and JavaScript
 
 </details>
+
+## 📊 GitHub stats & contributions
+
+<div align="center">
+<img src="./assets/profile-summary.svg" width="100%" alt="Snapshot as of November 2026: 9 public repositories, 4 featured public GitHub projects and 1 real client website." />
+<a href="https://github.com/rauladrixdev"><img src="./assets/live-contributions.svg" width="100%" alt="View live GitHub contributions and activity for rauladrixdev on GitHub." /></a>
+</div>
+
+<sub>Statistics reflect a verified public-repository snapshot from November 2026. For up-to-date contribution counts and activity, open the linked GitHub profile.</sub>
 
 <details>
 <summary><strong>🇧🇷 Sobre mim em português</strong></summary>
