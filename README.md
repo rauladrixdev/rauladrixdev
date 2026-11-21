@@ -1,122 +1,75 @@
 <div align="center">
 
-<h1>👨🏾‍💻 Raul Adriano Jardim</h1>
-<h3>Technology Student | Development, Data & IT</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=175&color=0:111827,50:312E81,100:6D28D9&text=Raul%20Adriano&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Python%20%7C%20FastAPI%20%7C%20SQL%20%7C%20Frontend&descAlignY=66&descSize=19" width="100%" alt="Raul Adriano — Python, FastAPI, SQL, Frontend" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+**Backend-focused ADS student · Building REST APIs and real websites · Open to technology internships**
 
-<br/><br/>
-
-<!-- Profile Views -->
-
-<a href="https://github.com/rauladrixdev" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=rauladrixdev&color=00eeff&style=for-the-badge&label=PROFILE+VIEWS" />
-</a>
-
-<br/><br/>
-
-<!-- Open to Work -->
-
-<a href="https://linkedin.com/in/raul-adriano" target="_blank">
-  <img src="https://img.shields.io/badge/💼_OPEN_TO_WORK-Technology_Internship-00eeff?style=for-the-badge&labelColor=0d1117" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-adriano/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=githubpages&logoColor=white)](https://rauladrixdev.github.io/) [![Email](https://img.shields.io/badge/Email-Contact-29213E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raum.adrix@icloud.com)
 
 </div>
 
----
+## 👨‍💻 What I bring
 
-## 👨🏾‍💻 About me
+I am **Raul Adriano**, a **Systems Analysis and Development student at UNICID** in São Paulo, Brazil (**graduation expected in 2028**).
 
-```python
-dev = {
-    "name":        "Raul Adriano Jardim",
-    "location":    "São Paulo, Brazil 🇧🇷",
-    "education":   "Systems Analysis and Development — UNICID (graduating Dec/2027)",
-    "focus":       ["Development", "Data", "IT"],
-    "stack":       ["Python", "Java", "SQL", "JavaScript", "HTML", "CSS"],
-    "looking_for": "Technology internship",
-    "portfolio":   "rauladrixdev.github.io"
-}
-```
+My focus is **backend development with Python, FastAPI and relational databases**. I also work with **HTML, CSS and JavaScript** and have delivered a responsive website for a real client.
 
-I am a Systems Analysis and Development student building my foundation in technology through study, practice, and personal projects.
+- **Backend fundamentals:** REST APIs, CRUD, authentication/JWT and SQL
+- **Development workflow:** Git/GitHub, Docker, VS Code and API documentation
+- **Frontend:** responsive websites and JavaScript fundamentals
+- **Learning tools:** ChatGPT, Gemini and Claude for study, review and prototyping
 
-I enjoy learning by building projects involving backend development, frontend fundamentals, databases, SQL, data analysis, and BI.
+## 📌 Practical work
 
-My goal is to gain my first professional opportunity in technology, continue learning, receive feedback, and turn what I practice into professional experience.
+### 🔐 [Auth Customer API](https://github.com/rauladrixdev/auth-customer-api)
+**Python · FastAPI · SQLAlchemy · SQLite**  
+User registration, authentication with JWT and password hashing. Demonstrates backend structure, data handling and authentication concepts.
 
----
+### 🌐 KV Estofados — client website
+**HTML · CSS · JavaScript**  
+Designed and delivered a responsive website for a local business, showcasing services, results and contact interactions.
 
-## 🛠️ Tech Stack
+### 👥 [Employee Management API](https://github.com/rauladrixdev/sistema-funcionarios-backend)
+**Java · Spring Boot · MySQL**  
+REST API for employee management. An additional example of backend development using a different language and framework.
+
+### 🧱 [TaskFlow API — in progress](https://github.com/rauladrixdev/taskflow-api)
+**Python · FastAPI · Docker**  
+Task-management API project with an architecture plan and incremental development roadmap.
+
+<details>
+<summary><strong>More projects and data work</strong></summary>
+
+- [Customer Segmentation DW](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc) — SQL Server, star schema and ABC segmentation
+- [Sales Dashboard](https://github.com/rauladrixdev/dashboard-vendas-powerbi) — Power BI and business indicators
+- [E-commerce Logistics](https://github.com/rauladrixdev/portfolio_olist_ecommerce) — Python and Pandas
+- [Personal Portfolio](https://rauladrixdev.github.io/) — HTML, CSS and JavaScript
+
+</details>
+
+## 🛠️ Technical stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,vscode&theme=dark&perline=8" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker&theme=dark&perline=8" />
-
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,git,github,docker,html,css,js,java,spring&theme=dark&perline=6" alt="Technical stack icons" />
 </div>
 
-### Data & BI
+## 🎯 Seeking an opportunity
 
-* SQL
-* SQL Server
-* PostgreSQL
-* MySQL
-* Power BI
-* DAX
-* Pandas
-* NumPy
-* Excel
+I'm looking for a **technology internship**, particularly in **backend, software development or related technical roles**. I value clear communication, collaboration, accessibility and continuous learning.
+
+<details>
+<summary>🇧🇷 Resumo em português</summary>
+
+Sou estudante de **ADS na UNICID (conclusão prevista: 2028)**, com foco em **desenvolvimento backend**, especialmente Python, FastAPI, APIs REST e SQL. Também tenho prática com frontend e já entreguei um site para um cliente real. Utilizo ChatGPT, Gemini e Claude para apoiar meus estudos e projetos.
+
+</details>
 
 ---
-
-## 📂 Featured Projects
 
 <div align="center">
 
-| 🗂️ Project                                                                                   | 📝 Description                                                         | 🔧 Stack                             |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------ |
-| [🚚 E-commerce Logistics Pipeline](https://github.com/rauladrixdev/portfolio_olist_ecommerce) | Data analysis of e-commerce orders, delivery performance and logistics | Python · Pandas · NumPy              |
-| [📊 Customer Segmentation DW](https://github.com/rauladrixdev/dw-segmentacao-clientes-abc)    | Customer segmentation using revenue share and dimensional modeling     | SQL Server · CTEs · Window Functions |
-| [📈 Sales Dashboard](https://github.com/rauladrixdev/dashboard-vendas-powerbi)                | Sales analysis with KPIs by state and sales channel                    | Power BI · DAX                       |
-| [🔐 Auth Customer API](https://github.com/rauladrixdev/auth-customer-api)                     | REST API focused on authentication, password hashing and JWT           | Python · FastAPI · JWT               |
-| [👥 Employee Management API](https://github.com/rauladrixdev/sistema-funcionarios-backend)    | REST API for employee management with layered architecture             | Java · Spring Boot · MySQL           |
-| [🌐 Personal Portfolio](https://rauladrixdev.github.io)                                       | Responsive personal portfolio website                                  | HTML · CSS · JavaScript              |
+**Let's build something useful.**
 
-</div>
-
----
-
-## 🎯 What I'm looking for
-
-I am looking for a **technology internship**, with interest in:
-
-* Development
-* Data
-* IT
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://linkedin.com/in/raul-adriano" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Raul_Adriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:raum.adrix@icloud.com">
-  <img src="https://img.shields.io/badge/Email-raum.adrix%40icloud.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-</a>
-
-<a href="https://rauladrixdev.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-rauladrixdev.github.io-00eeff?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-adriano/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=githubpages&logoColor=white)](https://rauladrixdev.github.io/) [![Email](https://img.shields.io/badge/Email-Contact-29213E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raum.adrix@icloud.com)
 
 </div>
